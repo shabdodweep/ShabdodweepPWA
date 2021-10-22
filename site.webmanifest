@@ -1,0 +1,36 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "standalone",
+    "prefer_related_applications": false,
+    "start_url": "https://www.shabdodweep.co.in",
+    "name": "Shabdodweep Web Magazine",
+    "short_name": "Shabdodweep",
+    "description": "Shabdodweep is an international platform for all writers, artists and photographers to publish their unpublished contents.",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-_Xmq9TDgmlU/YO1NqWnNsJI/AAAAAAAAItA/I4-yzVSiWPgwoPf2ilq_Oc_k8I9M-gN9wCLcBGAsYHQ/s0/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-kx87ce-FdFM/YO1Ns_nQhgI/AAAAAAAAItE/KvV2NjtSJokWi5t65bc_Jr-SiOTFlKIAwCLcBGAsYHQ/s0/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-u7bJKFKAWGc/YO1NuyLKgTI/AAAAAAAAItI/qP0GvEWBBxsMMHxdvdKfeBcuaoyxCpx-QCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-PJDncDNQGAg/YO1NxBdJk-I/AAAAAAAAItM/j3EbmWGO3wc0e9-3_ygkKs4opwkbtQJLACLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
